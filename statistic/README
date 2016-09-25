@@ -1,0 +1,6 @@
+# Maven Plugin Tool
+Used to count source code lines for java
+
+## Usage:
+* cd project/dir
+* sh source_count.sh

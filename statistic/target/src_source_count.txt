@@ -1,0 +1,2 @@
+/src/main/java/StatisticMojo.java : 249,162,29,65%
+/src/main/java : 249,162,29,65%
